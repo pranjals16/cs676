@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{Hartley2004}
+R.~I. Hartley and A.~Zisserman.
+\newblock {\em Multiple View Geometry in Computer Vision}.
+\newblock Cambridge University Press, ISBN: 0521540518, second edition, 2004.
+
+\bibitem{Hartley96triangulation}
+Richard Hartley and Peter Sturm.
+\newblock Triangulation, 1996.
+
+\bibitem{Johnson-Roberson:2009bs}
+M.~Johnson-Roberson, O.~Pizarro, S.~Williams, and I.~Mahon.
+\newblock Large scale 3d reconstruction and visualization of stereo surveys.
+\newblock In {\em Marine Geological and Biological Habitat Mapping (GeoHab)
+  Video Workshop}, 2009.
+
+\end{thebibliography}
